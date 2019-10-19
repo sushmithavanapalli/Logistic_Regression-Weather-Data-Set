@@ -1,4 +1,4 @@
-# ML
+# Weather Data Set
 
 This dataset contains daily weather observations from numerous Australian weather stations.
 The target variable RainTomorrow means: Did it rain the next day? Yes or No.
